@@ -21,5 +21,4 @@ The on-board LED shows activity, both for TX and RX.
 The UART interface's baud rate is automatically configured to match
 the requested USB interface baud rate.
 
-![Wiring Diagram](raw/master/Fritzing/USB Serial Interface.png)
-
+![Wiring Diagram](raw/master/Fritzing/USB%20Serial%20Interface.png)
