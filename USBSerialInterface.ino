@@ -80,8 +80,8 @@ void loop() {
 	} else {
 		if (connected) {
 			connected = false;
-			digitalWrite(PIN_DTRS, LOW);
-			pulse_ts = millis();
+//			digitalWrite(PIN_DTRS, LOW);
+//			pulse_ts = millis();
 		}
 		digitalWrite(PIN_DTRP, LOW);
 		digitalWrite(PIN_DTRN, HIGH);
